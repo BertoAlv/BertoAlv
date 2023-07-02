@@ -1,10 +1,10 @@
 <h1 align="center">Hello there! 👋</h1>
 
 ## About Me.
-- 👨‍💻 Higher Technician in cross-platform app development, living in Spain :es:.
-- :iphone: Passionate about mobile development.
-- :chart_with_upwards_trend: There is always room for improvement.
-- 📝 I also have knowledge about supervised and unsupervised Machine Learning algorithms, DeepLearning and Big Data.
+- 👨‍💻 Higher Technician in **cross-platform app development**, living in Spain :es:.
+- :iphone: Passionate about **mobile development**.
+- :chart_with_upwards_trend: There is always room for **improvement**.
+- 📝 I also have knowledge about supervised and unsupervised **Machine Learning** algorithms, **DeepLearning** and **Big Data**.
 <br>
 
 ### 🛠️ Most Used Tools
