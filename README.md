@@ -4,7 +4,6 @@
 
 - 🔭 I'm currently looking for a job in the Android Development field. 
 - 📲 Constantly learning about mobile development.
-- 🌱 Learning about common architectures such as MVVM and MVP.
 - 📝 I also have knowledge about supervised and unsupervised Machine Learning models, DeepLearning and Big Data.
 <br>
 
