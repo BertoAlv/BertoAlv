@@ -8,8 +8,8 @@
 <br>
 
 ### 🛠️ Most Used Tools
-| <img align="center" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo-1.png" height="42" width="48"/> | <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="36" height="36"/> | <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> |
-| :-: | :-: | :-: | :-: | :-: |
+| <img align="center" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo-1.png" height="40" width="48"/> | <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="36" height="36"/> | <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> |
+| :-: | :-: | :-: | :-: |
 
 ## My Proudest Projects
 <table>
