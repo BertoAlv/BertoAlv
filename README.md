@@ -3,7 +3,7 @@
 ## About Me.
 - 👨‍💻 Higher Technician in **cross-platform app development**, living in Spain :es:.
 - :iphone: Passionate about **mobile development**.
-- :chart_with_upwards_trend: There is always room for **improvement**.
+- :chart_with_upwards_trend: Always trying to **improve**.
 - 📝 I also have knowledge about supervised and unsupervised **Machine Learning** algorithms, **DeepLearning** and **Big Data**.
 <br>
 
