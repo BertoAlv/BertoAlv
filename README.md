@@ -24,7 +24,7 @@
 </p>
 <p>Modern Android App developed using Kotlin, incorporating powerful libraries such as Retrofit2, Picasso, LiveData,Coroutines and Dagger Hilt for efficient dependency injection. It also follows the principles of MVVM architecture and clean architecture.</p>
 </div>
-                                                                                      
+                                                                                    
 </td>
 
 <td width="50%">
