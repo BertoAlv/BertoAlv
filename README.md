@@ -8,8 +8,8 @@
 <br>
 
 ### 🛠️ Most Used Tools
-| <img align="center" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo-1.png" height="40" width="48"/> | <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="36" height="36"/> | <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> |
-| :-: | :-: | :-: | :-: |
+| <img align="center" src="https://1000marcas.net/wp-content/uploads/2020/01/Android-logo-1.png" height="40" width="48"/> | <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="36" height="36"/> | <img align="center" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="compose" width="40" height="40"/> | <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> | <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> |
+| :-: | :-: | :-: | :-: | :-: |
 
 ## My Proudest Projects
 <table>
