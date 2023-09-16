@@ -17,9 +17,9 @@
 <td width="50%">
 <h3 align="center">Drink Explorer</h3>
 <div align="center">
-<a href="https://github.com/BertoAlv/Drink_Explorer" target="_blank"><img src="https://i.imgur.com/8mAvC04.png" width="400" alt="DrinkExplorer"></a>
+<a href="https://github.com/BertoAlv/DrinkExplorer" target="_blank"><img src="https://i.imgur.com/8mAvC04.png" width="400" alt="DrinkExplorer"></a>
 <p>
-<a href="https://github.com/BertoAlv/Drink_Explorer" target="_blank">
+<a href="https://github.com/BertoAlv/DrinkExplorer" target="_blank">
 <img src="https://img.shields.io/badge/Project-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p>Modern Android App developed using Kotlin, incorporating powerful libraries such as Retrofit2, Picasso, LiveData,Coroutines and Dagger Hilt for efficient dependency injection. It also follows the principles of MVVM architecture and clean architecture.</p>
