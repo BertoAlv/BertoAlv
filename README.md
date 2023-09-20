@@ -22,7 +22,8 @@
 <a href="https://github.com/BertoAlv/DrinkExplorer" target="_blank">
 <img src="https://img.shields.io/badge/Project-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>Modern Android App developed using Kotlin, incorporating powerful libraries such as Retrofit2, Picasso, LiveData,Coroutines and Dagger Hilt for efficient dependency injection. It also follows the principles of MVVM architecture and clean architecture.</p>
+<p>Modern Android App developed using Kotlin, incorporating powerful libraries such as Retrofit2, Picasso, LiveData,Coroutines and Dagger Hilt for efficient dependency injection. It also follows the principles of MVVM architecture and clean architecture.</br>
+Available in the <a href="https://play.google.com/store/apps/details?id=com.alberto.drinkexplorer">PlayStore</a>.</p>
 </div>
                                                                                     
 </td>
