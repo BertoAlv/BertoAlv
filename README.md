@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Project-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Android app developed using Jetpack Compose. It supports Offline-First functionality with WorkManager, Firebase Authentication, API integration, local storage with Room and more. Available in the <a href="https://play.google.com/store/apps/details?id=com.alberto.studycompanionr">PlayStore</a>.</p>
+<p>Android app developed using Jetpack Compose. It supports Offline-First functionality with WorkManager, Firebase Authentication, API integration, local storage with Room and more. Available in the <a href="https://play.google.com/store/apps/details?id=com.alberto.studycompanionr">PlayStore</a>.<br></p>
 </div>
   
 <td width="50%">
