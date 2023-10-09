@@ -15,6 +15,18 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">SWEP: Study Partner</h3>
+<div align="center">
+<a href="https://github.com/BertoAlv/Swep-Study-Partner" target="_blank"><img src="https://i.imgur.com/9c5rtpM.png" width="400" alt="SWEP: Study Partner"></a>
+<p>
+<a href="https://github.com/BertoAlv/Swep-Study-Partner" target="_blank">
+<img src="https://img.shields.io/badge/Project-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Android app developed using Jetpack Compose. It supports Offline-First functionality with WorkManager, Firebase Authentication, API integration, local storage with Room and more. Available in the <a href="https://play.google.com/store/apps/details?id=com.alberto.studycompanionr">PlayStore</a>.</p>
+</div>
+  
+<td width="50%">
 <h3 align="center">Drink Explorer</h3>
 <div align="center">
 <a href="https://github.com/BertoAlv/DrinkExplorer" target="_blank"><img src="https://i.imgur.com/8mAvC04.png" width="400" alt="DrinkExplorer"></a>
@@ -23,21 +35,10 @@
 <img src="https://img.shields.io/badge/Project-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p>Modern Android App developed using Kotlin, incorporating powerful libraries such as Retrofit2, Picasso, LiveData,Coroutines and Dagger Hilt for efficient dependency injection. It also follows the principles of MVVM architecture and clean architecture.</br>
-Available in the <a href="https://play.google.com/store/apps/details?id=com.alberto.drinkexplorer">PlayStore</a>.</p>
-</div>
-                                                                                    
+Available in the <a href="https://play.google.com/store/apps/details?id=com.alberto.drinkexplorer">PlayStore</a>.</p>                                                                                 
 </td>
 
-<td width="50%">
-<h3 align="center">Match-Point</h3>
-<div align="center">
-<a href="https://github.com/BertoAlv/Match-Point" target="_blank"><img src="https://i.imgur.com/ZkdSinv.png" width="400" alt="Match-Point"></a>
-<p>
-<a href="https://github.com/BertoAlv/Match-Point" target="_blank">
-<img src="https://img.shields.io/badge/Project-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>My first ever project in Android, a prototype app of a social network geared towards tennis players, using Java and some basic Firebase functionalities like user authentication and a remote DB that allows chatting (store messages).</p>
+
 </div>                                                             
 </table>                                                                                 
 </div>
